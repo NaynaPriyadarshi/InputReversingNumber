@@ -1,0 +1,7 @@
+D:\VisualStudioPracticeWork\Program_Reversing2\Program_Reversing2\bin\Debug\Program_Reversing2.exe.config
+D:\VisualStudioPracticeWork\Program_Reversing2\Program_Reversing2\bin\Debug\Program_Reversing2.exe
+D:\VisualStudioPracticeWork\Program_Reversing2\Program_Reversing2\bin\Debug\Program_Reversing2.pdb
+D:\VisualStudioPracticeWork\Program_Reversing2\Program_Reversing2\obj\Debug\Program_Reversing2.csproj.CoreCompileInputs.cache
+D:\VisualStudioPracticeWork\Program_Reversing2\Program_Reversing2\obj\Debug\Program_Reversing2.exe
+D:\VisualStudioPracticeWork\Program_Reversing2\Program_Reversing2\obj\Debug\Program_Reversing2.pdb
+D:\VisualStudioPracticeWork\Program_Reversing2\Program_Reversing2\obj\Debug\Program_Reversing2.csprojAssemblyReference.cache

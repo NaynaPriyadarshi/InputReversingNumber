@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_Reversing2", "Program_Reversing2\Program_Reversing2.csproj", "{FA3B18E3-058E-4FAB-A412-1F1C8EEABB49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA3B18E3-058E-4FAB-A412-1F1C8EEABB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3B18E3-058E-4FAB-A412-1F1C8EEABB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3B18E3-058E-4FAB-A412-1F1C8EEABB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3B18E3-058E-4FAB-A412-1F1C8EEABB49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE1BDB98-750E-4555-A816-3FA11DEFCB97}
+	EndGlobalSection
+EndGlobal
